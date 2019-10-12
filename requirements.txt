@@ -22,4 +22,3 @@ six==1.12.0
 sklearn==0.0
 sqlparse==0.3.0
 statsmodels==0.10.0
-Theano==1.0.4+21.g8f510a1f0
